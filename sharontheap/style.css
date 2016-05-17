@@ -89,6 +89,16 @@ header {
   header img {
     height: 50px;
     padding: 5px 0; }
+  header .social-link-header {
+    display: inline-block;
+    position: relative;
+    font-size: 30px;
+    color: white;
+    vertical-align: top;
+    height: 100%;
+    padding: 16px; }
+    header .social-link-header a {
+      color: white; }
 
 footer {
   text-align: center;

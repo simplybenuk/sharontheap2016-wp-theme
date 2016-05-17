@@ -10,6 +10,12 @@
 <body <?php body_class(); ?>>
 <div id="wrapper" class="hfeed">
 <header>
+  <div class="social-link-header">
+    <a href="https://www.instagram.com/sharontheap/" target="_blank"><i class="fa fa-instagram fa-fw"></i></a>
+  </div>
   <a href="<?php echo get_home_url(); ?>"><img src="/wp-content/themes/sharontheap/images/logo.png" alt="Sharon T Heap Logo"></a>
+  <div class="social-link-header">
+    <a href="https://twitter.com/sharontheap" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
+  </div>
 </header>
 <div id="container">
