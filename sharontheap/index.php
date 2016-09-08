@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 <!--IMAGES-->
 <div class="blog-page">
 <div id="ms-container">
